@@ -9,6 +9,7 @@
 <br/>
 
 <p align="center">
+<a href="https://github.com/shash873/simple-file-checksum/actions?query=workflow%3Atests"><img alt="Tests Badge" src="https://github.com/shash873/simple-file-checksum/workflows/tests/badge.svg"></a>
 <a href="https://raw.githubusercontent.com/shash873/simple-file-checksum/main/LICENCE"><img alt="License: MIT" src="https://raw.githubusercontent.com/shash873/simple-file-checksum/main/license.svg"></a>
 </p>
 
