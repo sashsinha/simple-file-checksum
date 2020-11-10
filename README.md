@@ -12,6 +12,7 @@
 <a href="https://github.com/shash873/simple-file-checksum/actions?query=workflow%3Atests"><img alt="Tests Badge" src="https://github.com/shash873/simple-file-checksum/workflows/tests/badge.svg"></a>
 <a href="https://raw.githubusercontent.com/shash873/simple-file-checksum/main/LICENCE"><img alt="License: MIT" src="https://raw.githubusercontent.com/shash873/simple-file-checksum/main/license.svg"></a>
 <a href="https://pypi.org/project/simple-file-checksum/"><img alt="PyPI" src="https://img.shields.io/pypi/v/simple-file-checksum"></a>
+<a href="https://pepy.tech/project/simple-file-checksum"><img alt="Downloads" src="https://pepy.tech/badge/simple-file-checksum"></a>
 </p>
 
 ## Installation
