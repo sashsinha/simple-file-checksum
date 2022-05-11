@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/shash873/simple-file-cheksum"><img alt="Simple File Checksum Logo" src="https://raw.githubusercontent.com/shash873/simple-file-checksum/main/logo.png"></a>
+<a href="https://github.com/sashsinha/simple-file-cheksum"><img alt="Simple File Checksum Logo" src="https://raw.githubusercontent.com/sashsinha/simple-file-checksum/main/logo.png"></a>
 </p>
 
 <h1 align="center">Simple File Checksum</h1>
@@ -9,8 +9,8 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/shash873/simple-file-checksum/actions?query=workflow%3Atests"><img alt="Tests Badge" src="https://github.com/shash873/simple-file-checksum/workflows/tests/badge.svg"></a>
-<a href="https://raw.githubusercontent.com/shash873/simple-file-checksum/main/LICENCE"><img alt="License: MIT" src="https://raw.githubusercontent.com/shash873/simple-file-checksum/main/license.svg"></a>
+<a href="https://github.com/sashsinha/simple-file-checksum/actions?query=workflow%3Atests"><img alt="Tests Badge" src="https://github.com/sashsinha/simple-file-checksum/workflows/tests/badge.svg"></a>
+<a href="https://raw.githubusercontent.com/sashsinha/simple-file-checksum/main/LICENCE"><img alt="License: MIT" src="https://raw.githubusercontent.com/sashsinha/simple-file-checksum/main/license.svg"></a>
 <a href="https://pypi.org/project/simple-file-checksum/"><img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey" alt="Supported Platforms"></a>
 <a href="https://pypi.org/project/simple-file-checksum/"><img 
 alt="PyPI Supported Versions" src="https://img.shields.io/pypi/pyversions/simple-file-checksum.svg"></a>

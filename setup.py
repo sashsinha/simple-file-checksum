@@ -12,7 +12,7 @@ def long_description():
 
 setup(
     name="simple-file-checksum",
-    version="1.1.0",
+    version="1.2.0",
     description=
     "Returns the MD5, SHA1, SHA256, SHA384, or SHA512 checksum of a file.",
     long_description=long_description(),
@@ -27,6 +27,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
         "Development Status :: 5 - Production/Stable",
         "Operating System :: MacOS",
         "Operating System :: POSIX :: Linux",
