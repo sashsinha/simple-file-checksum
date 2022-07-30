@@ -5,14 +5,14 @@ from setuptools import setup
 
 
 def long_description():
-    with open("README.md") as file_handle:
-        readme_text = file_handle.read()
-    return readme_text
+  with open("README.md") as file_handle:
+    readme_text = file_handle.read()
+  return readme_text
 
 
 setup(
     name="simple-file-checksum",
-    version="1.2.1",
+    version="1.2.2",
     description=
     "Returns the MD5, SHA1, SHA256, SHA384, or SHA512 checksum of a file.",
     long_description=long_description(),
@@ -41,5 +41,5 @@ setup(
     include_package_data=True,
     python_requires=">=3.6",
     extras_require={"dev": ["pytest>=3.7", "pytest-cov", "tox==3.20.1"]},
-    entry_points={"console_scripts": ["simple-file-checksum=cli:main"]}
+    entry_points={"console_scripts": ["simple-file-checksum=cli:main"]},
 )
