@@ -12,14 +12,14 @@ def long_description():
 
 setup(
     name="simple-file-checksum",
-    version="1.3.0",
+    version="1.3.1",
     description=
     "Returns the MD5, SHA1, SHA256, SHA384, or SHA512 checksum of a file.",
     long_description=long_description(),
     long_description_content_type="text/markdown",
-    url="https://github.com/shash873/simple-file-checksum",
-    author="Shash Sinha",
-    author_email="shash873@gmail.com",
+    url="https://github.com/sashsinha/simple-file-checksum",
+    author="Sash Sinha",
+    author_email="sashsinha1@gmail.com",
     license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3.9",
